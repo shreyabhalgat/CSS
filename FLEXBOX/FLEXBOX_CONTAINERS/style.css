@@ -1,0 +1,30 @@
+.container{
+    background: pink;
+    height:50vh;
+    width:50vw;
+    padding:0.5em;
+    margin:25vh auto o;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content:space-around;
+    align-items: flex-start;
+    
+}
+
+.item{
+    background: lightblue;
+    margin:0.5em;
+    width:50%;
+    /*flex-grow: ;
+    flex-shrink: ;
+    flex-basis: ;
+    flex: ;
+    order: ;*/
+}
+
+/*.one{
+    flex-grow: 0;
+    flex-shrink: 1;
+    flex-basis: 250px;
+}*/

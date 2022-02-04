@@ -1,0 +1,25 @@
+body{
+    background: rgb(238, 188, 188);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1.75rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 100px;
+}
+
+h1{
+    text-shadow: 5px 5px 15px rgba(0,0,0.25);
+    font-size: 7.5rem;
+    margin: 0.25em;
+    font-family: cursive;
+}
+
+p{
+    color: black;
+}
+
+body{
+    color: rgb(64, 112, 112);
+}
+

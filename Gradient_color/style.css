@@ -1,0 +1,8 @@
+.gradient{
+    height: 500px;
+    width: 500px;
+    background-image:conic-gradient(violet,indigo,blue,green,yellow,red);
+    /*you can mentioned direction to change the property*/
+    /*u can also use radial gradient*/
+    border-radius: 50%;
+}

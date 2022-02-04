@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: cursive;
+}
+
+.main{
+    width: 100vw;
+    height: 100vh;
+    background-color: crimson;
+    color: whitesmoke;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+h1{
+    font-size: 11vmin;
+}
+
+/*for classes use single : and for element use ::*/
+
+h1::before{
+content: "before";
+display: block;
+}
+
+h1::after{
+display: block;
+    content:"after";
+}

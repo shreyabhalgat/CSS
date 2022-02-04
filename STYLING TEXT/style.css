@@ -1,0 +1,25 @@
+body{
+    background-color: lightcyan;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1{
+    color: black;
+    font-size: larger;
+    margin-top: 0%;
+}
+
+h2{
+    color: rgb(39, 35, 35);
+}
+
+p{
+    color: navy;
+    margin-top: 5px; 
+    line-height: 40px ;
+    font-style: oblique;
+    font-weight: bolder;
+    text-transform: initial;
+
+}

@@ -1,0 +1,33 @@
+body{
+   background-image: url(concrete_wall.png);
+   
+
+}
+
+h1{
+    color: lightgrey;
+    background-color:rgb(138, 100, 29);
+ 
+    text-align: center;
+}
+.div1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(205, 205, 240);
+    background-color: rgb(233, 197, 203);
+    padding: 50px;
+    margin: 10px;
+    border: 5px;
+
+    background-image: url(download.jpg);
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+   height: 400px;
+   max-width: 100;
+   text-align: center;
+   font-weight: 300;
+ 
+
+    
+}

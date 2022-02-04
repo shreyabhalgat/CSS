@@ -1,0 +1,46 @@
+body{
+    background-color: lightcyan;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1{
+    color: black;
+    font-size: larger;
+    margin-top: 0%;
+}
+
+h2{
+    color: rgb(39, 35, 35);
+}
+
+p{
+    color: rgb(34, 14, 14);
+    margin-top: 5px; 
+    line-height: 40px ;
+    
+
+}
+
+a:link{
+    color: rgb(74, 53, 131);
+}
+
+a:visited{
+    color: rgb(151, 221, 151);
+}
+
+a:hover{
+    color: rgb(247, 0, 12);
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+a:active{
+    color: blue;
+}
+
+a:focus{
+    color: cadetblue;
+}

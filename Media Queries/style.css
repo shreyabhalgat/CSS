@@ -1,0 +1,29 @@
+body{
+    background-color: azure;
+    font-size: 30px;
+}
+
+h1{
+    color: red;
+    
+}
+
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 2;
+}
+
+@media(max-width:1000px){
+    p{
+        font-size: 1.25em;
+        background-color: aqua;
+        
+    }
+}
+
+@media(min-width:800px)
+{
+    p{
+        font-size: 1.50em;
+    }
+}

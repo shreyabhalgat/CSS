@@ -1,0 +1,25 @@
+body{
+    color:lightskyblue;
+    font-size:30px;
+}
+
+h1{
+    background-color: black;
+    color: beige;
+    text-align: center;
+}
+
+p{
+    color: black;
+    font-size: larger;
+}
+
+.container{
+    background-color: white;
+    width:70%;
+    max-width: 1000px;
+    margin-right: auto;
+    margin-left:auto;
+    /*margin: 0 auto*/
+     
+}
